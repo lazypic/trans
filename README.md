@@ -2,6 +2,9 @@
 언어인식 라이브러리 + 카카오 번역API를 이용해서 제작된 터미널 번역기입니다.
 [![Video Label](https://img.youtube.com/vi/TJIql2iBpzs/0.jpg)](https://youtu.be/TJIql2iBpzs)
 
+#### Download
+[Download Trans](https://github.com/lazypic/trans/releases)
+
 #### 사용법
 - 영어단어를 번역할 수 있습니다.
 ```bash
