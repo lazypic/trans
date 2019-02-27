@@ -12,7 +12,8 @@ $ go get -u github.com/lazypic/trans
 ```
 
 #### 사용법
-- 영어단어를 번역할 수 있습니다.
+터미널에서 영어단어를 번역할 수 있습니다.
+
 ```bash
 $ trans test
 $ trans -text test # 이렇게도 작성할 수 있습니다.
