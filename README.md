@@ -6,7 +6,8 @@
 [Download Trans](https://github.com/lazypic/trans/releases)
 
 #### Install
-- go가 설치되어있다면 아래 명령어로 설치할 수 있습니다.
+go가 설치되어있다면 아래 명령어로 설치할 수 있습니다.
+
 ```bash
 $ go get -u github.com/lazypic/trans
 ```
