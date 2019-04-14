@@ -1,4 +1,6 @@
 # Trans
+![status](https://api.travis-ci.org/lazypic/trans.png)
+
 언어인식 라이브러리 + 카카오 번역API를 이용해서 제작된 터미널 번역기입니다.
 [![Video Label](https://img.youtube.com/vi/TJIql2iBpzs/0.jpg)](https://youtu.be/TJIql2iBpzs)
 
